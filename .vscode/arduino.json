@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "number_dice/number_dice.ino"
+}
